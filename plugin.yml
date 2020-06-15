@@ -1,0 +1,11 @@
+name: CobbleB
+version: 1.0.0
+api: 3.11.6
+main: Zoumi\Main
+author: Zoumi
+
+permissions:
+  break.cobblebreak:
+    default: op
+    description: rien
+

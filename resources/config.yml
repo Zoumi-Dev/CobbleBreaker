@@ -1,0 +1,84 @@
+#id du cobblebreaker
+id: "206"
+
+#id de l'item a compresser.
+id-item: "433"
+
+
+#id de l'item numéro 1
+id1: "263"
+
+#nombre d'item drop au id1
+n1: "32"
+
+#nom de l'item num 1
+name1: "charbon"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n1} disponible)
+message1: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n1} §fde§b charbon"
+
+#id de l'item numéro 2
+id2: "265"
+
+#nombre d'item drop au id2
+n2: "10"
+
+#nom de l'item num2
+name2: "fer"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n2} disponible)
+message2: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n2} §fde§b fer"
+
+#id de l'item numéro 3
+id3: "266"
+
+#nombre d'item drop au id3
+n3: "4"
+
+#nom de l'item num3
+name3: "or"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n3} disponible)
+message3: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n3} d'or"
+
+#id de l'item numéro 4
+id4: "264"
+
+#nombre d'item drop au id4
+n4: "2"
+
+#nom de l'item num4
+name4: "diamand"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n4} disponible)
+message4: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n4} §fde§b diamand"
+
+#id de l'item numéro 5
+id5: "388"
+
+#nombre d'item drop au id5
+n5: "1"
+
+#nom de l'item num5
+name5: "emerald"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n5} disponible)
+message5: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n5} d'emerald"
+
+#id de l'item numéro 6
+id6: "414"
+
+#nombre d'item drop au id6
+n6: "1"
+
+#nom de l'item num6
+name6: "patte de lapin"
+
+#message lorsque le joueur interact avec le cobblebreaker. ({n6} disponible)
+message6: "§3[§bCobbleBreaker§3] §fGG, tu as reçu §bx{n6} §fde§b patte de lapin"
+
+
+#message quand un joueur cassent le cobblebreaker sans la permission
+cobblebreaker-cant-break: "§3[§bCobbleBreaker§3] §fVous n'avez pas la permission de casser le §bCobbleBreaker§f."
+#message d'affirmation quand le joueur ayant la permission cassent le bloc
+cobblebreaker-successfuly-break: "§3[§bCobbleBreaker§3] §fDétruit avec succès."
